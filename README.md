@@ -16,6 +16,7 @@ When Vault server is up and running, update environment variable for vault token
     
     
         
+ovo je nova promena
 
 
 
