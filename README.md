@@ -14,7 +14,9 @@ When Vault server is up and running, update environment variable for vault token
 
       standalone.bat -Djboss.http.port=8180
     
-    
+ Access to Authorization Server Configuration - Keycloak
+
+      localhost:8180
         
 
 
