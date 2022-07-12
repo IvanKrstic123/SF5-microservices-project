@@ -9,6 +9,7 @@ When Vault server is up and running, update environment variable for vault token
 
       vault kv put secret/order-service @order-service.json
       vault kv put secret/product-service @product-service.json
+      vault kv put secret/inventory-service @inventory-service-credentials.json
     
  Locate to bin directory of Keycloak installation and run command
 
